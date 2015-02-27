@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vasaio QR Code\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-09 17:50+0200\n"
+"PO-Revision-Date: 2013-01-09 17:58+0200\n"
+"Last-Translator: Marius-Alex OLAR\n"
+"Language-Team: Marius OLAR <http://olarmarius.tk/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../vasaio-qr-code.php:103
+msgid "This widget generates standalone QR codes, colored and customized with logo inside"
+msgstr "Acest widget generează coduri QR proprii, colorate și cu un logo în interiorul acestora"
+
+#: ../vasaio-qr-code.php:239
+msgid "Scan with your mobile phone"
+msgstr "Scanează cu telefonul mobil"
+
+#: ../vasaio-qr-code.php:364
+msgid "Title"
+msgstr "Titlu"
+
+#: ../vasaio-qr-code.php:368
+msgid "Leave this field empty to use permalink instead"
+msgstr "Lasă acest câmp gol pentru a utiliza permalink-ul"
+
+#: ../vasaio-qr-code.php:369
+msgid "QR code message"
+msgstr "Mesajul codului QR"
+
+#: ../vasaio-qr-code.php:374
+#: ../vasaio-qr-code.php:573
+msgid "Image width"
+msgstr "Lățime imagine"
+
+#: ../vasaio-qr-code.php:379
+#: ../vasaio-qr-code.php:579
+msgid "Destruction tolerance"
+msgstr "Corecție la distrugere"
+
+#: ../vasaio-qr-code.php:384
+#: ../vasaio-qr-code.php:581
+msgid "Low (L=7%)"
+msgstr "Scăzut (L=7%)"
+
+#: ../vasaio-qr-code.php:385
+#: ../vasaio-qr-code.php:582
+msgid "Medium (M=15%)"
+msgstr "Mediu (M=15%)"
+
+#: ../vasaio-qr-code.php:386
+#: ../vasaio-qr-code.php:583
+msgid "Quality (Q=25%)"
+msgstr "Ridicat (Q=25%)"
+
+#: ../vasaio-qr-code.php:387
+#: ../vasaio-qr-code.php:584
+msgid "High (H=30%)"
+msgstr "Foarte ridicat (H=30%)"
+
+#: ../vasaio-qr-code.php:398
+#: ../vasaio-qr-code.php:590
+msgid "Image filetype"
+msgstr "Tip imagine"
+
+#: ../vasaio-qr-code.php:411
+#: ../vasaio-qr-code.php:600
+msgid "Edge size"
+msgstr "Dimensiune margine"
+
+#: ../vasaio-qr-code.php:424
+#: ../vasaio-qr-code.php:617
+msgid "Main color"
+msgstr "Culoare principală"
+
+#: ../vasaio-qr-code.php:429
+msgid "Contrast"
+msgstr "Contrast"
+
+#: ../vasaio-qr-code.php:434
+#: ../vasaio-qr-code.php:629
+msgid "Background color"
+msgstr "Culoarea din fundal"
+
+#: ../vasaio-qr-code.php:439
+#: ../vasaio-qr-code.php:651
+msgid "Logo"
+msgstr "Imagine"
+
+#: ../vasaio-qr-code.php:444
+#: ../vasaio-qr-code.php:657
+msgid "Logo area"
+msgstr "Arie imagine"
+
+#: ../vasaio-qr-code.php:449
+msgid "Automatic adjustment of the logo"
+msgstr "Ajustare automată a imaginii"
+
+#: ../vasaio-qr-code.php:453
+msgid "Apply special effect for main color"
+msgstr "Aplică efectul special pentru culoarea pătrățelelor"
+
+#: ../vasaio-qr-code.php:457
+msgid "Disable the credit link"
+msgstr "Dezactivează link-ul către plugin"
+
+#: ../vasaio-qr-code.php:522
+#: ../vasaio-qr-code.php:526
+msgid "Message"
+msgstr "Mesaj"
+
+#: ../vasaio-qr-code.php:522
+msgid "Saved options"
+msgstr "Opțiuni salvate"
+
+#: ../vasaio-qr-code.php:526
+msgid "Error saving options"
+msgstr "Eroare la salvarea opțiunilor"
+
+#: ../vasaio-qr-code.php:560
+#: ../vasaio-qr-code.php:562
+#: ../vasaio-qr-code.php:859
+msgid "Settings"
+msgstr "Opțiuni"
+
+#: ../vasaio-qr-code.php:575
+#: ../vasaio-qr-code.php:776
+msgid "image size in pixels (64, ... 256 = default, ... 3000)"
+msgstr "dimensiunea imaginii în pixeli (64, ... 256=prestabilit, ... 3000)"
+
+#: ../vasaio-qr-code.php:586
+#: ../vasaio-qr-code.php:778
+msgid "the correction of errors (L = 7% (default), M = 15%, Q = 25%, H = 30%)"
+msgstr "nivelul de corecție al erorilor (L=7%(prestabilit), M=15%, Q=25%, H=30%)"
+
+#: ../vasaio-qr-code.php:596
+#: ../vasaio-qr-code.php:780
+msgid "file type of QR code (PNG=default, JPEG, GIF) - case insensitive"
+msgstr "tipul fisierului QR code (PNG=default, JPEG, GIF) - indiferent daca este scris mic sau mare"
+
+#: ../vasaio-qr-code.php:612
+#: ../vasaio-qr-code.php:782
+msgid "number of squares from edge (2, 3, 4 = default, ... 10)"
+msgstr "numărul de pătrățele de pe margine (2, 3, 4=prestabilit, ... 10)"
+
+#: ../vasaio-qr-code.php:619
+#: ../vasaio-qr-code.php:784
+msgid "squares color (default = black)"
+msgstr "culoarea pătrățelelor (prestabilit=neagră)"
+
+#: ../vasaio-qr-code.php:623
+msgid "Color contrast"
+msgstr "Contrast de culoare"
+
+#: ../vasaio-qr-code.php:625
+msgid "contrast between main color and background color (greater is the best, greater than 5 is ok)"
+msgstr "contrastul dintre culoarea principală si culoarea din fundal (cu cât este mai mare cu atât este mai bine, mai mare decât 5 este bine)"
+
+#: ../vasaio-qr-code.php:631
+#: ../vasaio-qr-code.php:786
+msgid "background color (default = white)"
+msgstr "culoarea din fundal (prestabilit=albă)"
+
+#: ../vasaio-qr-code.php:635
+msgid "Suggested background color"
+msgstr "Culoarea din fundal sugerată"
+
+#: ../vasaio-qr-code.php:638
+msgid "the contrast between the main color and the suggested background color is: "
+msgstr "contrastul dintre culoarea principală(a pătrățelelor) și culoarea din fundal sugerată este:"
+
+#: ../vasaio-qr-code.php:642
+msgid "Special color effect"
+msgstr "Efect special de culoare"
+
+#: ../vasaio-qr-code.php:644
+msgid "random color"
+msgstr "Culoare aleasă aleator"
+
+#: ../vasaio-qr-code.php:645
+msgid "without effect"
+msgstr "fără efect"
+
+#: ../vasaio-qr-code.php:647
+#: ../vasaio-qr-code.php:794
+msgid "special color effect for main color"
+msgstr "Efect special de culoare pentru pătrățele"
+
+#: ../vasaio-qr-code.php:653
+#: ../vasaio-qr-code.php:788
+msgid "this logo will appear in all QR codes"
+msgstr "imaginea ce va apare în toate codurile QR"
+
+#: ../vasaio-qr-code.php:659
+#: ../vasaio-qr-code.php:790
+msgid "logo coverage (percentage of QR code - recommended 10%)"
+msgstr "aria de acoperire a imaginii (procent din codul QR - recomandat 10%)"
+
+#: ../vasaio-qr-code.php:663
+msgid "Automatic adjustment"
+msgstr "Ajustare automată"
+
+#: ../vasaio-qr-code.php:665
+msgid "automatic"
+msgstr "automat"
+
+#: ../vasaio-qr-code.php:666
+msgid "without adjustment"
+msgstr "fără ajustare"
+
+#: ../vasaio-qr-code.php:668
+#: ../vasaio-qr-code.php:792
+msgid "automatic adjustment of the logo"
+msgstr "ajustare automată a imaginii"
+
+#: ../vasaio-qr-code.php:676
+msgid "Save"
+msgstr "Salvează"
+
+#: ../vasaio-qr-code.php:742
+msgid "If you omit one of the parameter, the parameter will be take from options above"
+msgstr "Dacă omiteți unul din parametri, acesta va fi preluat din opțiunile de mai sus"
+
+#: ../vasaio-qr-code.php:745
+msgid "Resulted shortcode"
+msgstr "Codul scurt rezultat"
+
+#: ../vasaio-qr-code.php:755
+#: ../vasaio-qr-code.php:757
+msgid "Documentation"
+msgstr "Documentație"
+
+#: ../vasaio-qr-code.php:761
+msgid "To use this plugin just put the [vasaioqrcode] shortcode into the content of the page"
+msgstr "Pentru a utiliza acest modul trebuie doar să introduceți codul [vasaioqrcode] în conținutul paginii"
+
+#: ../vasaio-qr-code.php:769
+msgid "Parameter"
+msgstr "Parametru"
+
+#: ../vasaio-qr-code.php:770
+msgid "Explanation"
+msgstr "Explicație"
+
+#: ../vasaio-qr-code.php:771
+msgid "Description"
+msgstr "Descriere"
+
+#: ../vasaio-qr-code.php:774
+msgid "message"
+msgstr "mesaj"
+
+#: ../vasaio-qr-code.php:774
+msgid "data to encode (default=permalink)"
+msgstr "informația codificată (prestabilit=permalink)"
+
+#: ../vasaio-qr-code.php:776
+msgid "size"
+msgstr "dimensiune"
+
+#: ../vasaio-qr-code.php:778
+msgid "correction"
+msgstr "corecție"
+
+#: ../vasaio-qr-code.php:780
+msgid "filetype"
+msgstr "tip imagine"
+
+#: ../vasaio-qr-code.php:782
+msgid "border"
+msgstr "margine"
+
+#: ../vasaio-qr-code.php:784
+#: ../vasaio-qr-code.php:786
+msgid "color"
+msgstr "culoare"
+
+#: ../vasaio-qr-code.php:788
+msgid "logo"
+msgstr "imagine"
+
+#: ../vasaio-qr-code.php:790
+msgid "percent"
+msgstr "procent"
+
+#: ../vasaio-qr-code.php:792
+msgid "adjust"
+msgstr "ajustare"
+
+#: ../vasaio-qr-code.php:794
+msgid "effect"
+msgstr "efect"
+
+#: ../vasaio-qr-code.php:800
+msgid "For more examples visit"
+msgstr "Pentru mai multe exemple, vizitați"
+
+#: ../vasaio-qr-code.php:802
+msgid "Examples"
+msgstr "Exemple"
+
+#~ msgid "Correction of destruction"
+#~ msgstr "Corecție la distrugere"
+
+#~ msgid "Wide of image"
+#~ msgstr "Lățime imagine"
+
+#~ msgid "Eroare la salvarea optiunilor"
+#~ msgstr "Eroare la salvarea optiunilor"
