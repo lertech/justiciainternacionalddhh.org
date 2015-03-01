@@ -1,0 +1,78 @@
+Version 1.0
+
+	i)   Theme Submitted for approval
+	
+Version 1.01
+
+    i)    Added sanitized PHP code for ThemeOptions for security reasons. 
+    ii)   Fixed typo issues and other small bugs.
+    iii)  Cleaned up CSS.
+
+Version 1.01.1
+
+    i)    Modified sanitization PHP code for ThemeOptions for security reasons.
+	
+Version 1.01.2
+
+    i)   Implemented function for title in functions.php
+	ii)  Fixed CSS issues.
+	
+Version 1.01.3
+
+    i)   Solved gallery columns problem.
+	ii)  Set custom-header as a global variable.	
+	
+Version 1.01.4
+
+    i)   Solved gallery columns problem.
+
+Version 1.01.5
+
+    i)   Set all custom Theme functions, constants, classes, global variables, and options are prefixed with theme-slug.
+	
+Version 1.02
+    
+	i) Style Fixes.
+	
+Version 2.0
+	
+	i) Added home page template and set FT Options.
+	ii) Set TGM for pagination.
+	iii) Change copyright text condition.
+	iv) Change theme author uri in style.css.	
+	v) Set css for pagination.	
+	
+Version 2.0.1
+	
+	i)  Set Sanitization in all input fields.
+	ii)	Define TGM license and link in  readme.txt
+	iii) Set copyright text in footer.
+	
+Version 2.0.2
+
+	i)	change screenshot.
+	ii) change font-family in css.
+
+Version 2.0.3
+
+	i)	Remove ABSPATH in theme.
+	
+Version 2.0.4
+
+	i)	Set home page slider links.
+	ii) set font and css.
+	iii) Delete social icon images.
+
+Version 2.0.5
+
+	i) esc_url_raw replace with esc_url.
+
+Version 2.0.6 (17th Nov. 2014) 
+ 	i) Fixed JS error which was appearing in admin panel.   
+ 	ii) Removed screen_icon() found in the files class-tgm-plugin-activation.php and fasterthemes.php as it's deprecated. 
+ 	
+Version 2.0.7 (18th Dec. 2014) 
+    i) Made theme translation-ready!
+    ii) Fix css issue
+
+    
