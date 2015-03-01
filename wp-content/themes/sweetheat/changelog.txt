@@ -1,0 +1,7 @@
+Changelog
+
+18 Dec 2014 - 1.03
+--------------------------------------
+- fix for iOS scrolling;
+- logo size option;
+- full width page template

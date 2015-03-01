@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Roger Pàmies <roger.pamies@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: get_qrcode.php:1
+msgid "Encoding:"
+msgstr "Codificación:"
+
+#. Text in echo
+#: get_qrcode.php:1
+msgid "Error:"
+msgstr "Error:"
+
+#. Text in echo
+#: get_qrcode.php:1
+msgid "Link"
+msgstr "Enlace"
+
+#. Text in echo
+#: qr_master_admin.php:56
+msgid "(Deprecated)"
+msgstr "(Obsoleto)"
+
+#. Text in echo
+#: qr_master_admin.php:177
+msgid "This method save generated qr-codes in \\'uploads/qrmaster/cache\\' folder. The folder will be cleared when exceed 10MB"
+msgstr "Este método guarda los códigos QR generados en la carpeta \\'uploads/qrmaster/cache\\'. Cuando llega a 10MB se vacia automaticamente"
+
+#. Text in echo
+#: qr_master_admin.php:183
+msgid "1"
+msgstr "1"
+
+#. Text in echo
+#: qr_master_admin.php:192
+msgid "10"
+msgstr "10"
+
+#. Text in echo
+#: qr_master_admin.php:184
+msgid "2"
+msgstr "2"
+
+#. Text in echo
+#: qr_master_admin.php:185
+msgid "3"
+msgstr "3"
+
+#. Text in echo
+#: qr_master_admin.php:186
+msgid "4"
+msgstr "4"
+
+#. Text in echo
+#: qr_master_admin.php:193
+msgid "4 by default. 40 maximum size."
+msgstr "4 por defecto. Tamaño máximo 40."
+
+#. Text in echo
+#: qr_master_admin.php:187
+msgid "5"
+msgstr "5"
+
+#. Text in echo
+#: qr_master_admin.php:188
+msgid "6"
+msgstr "6"
+
+#. Text in echo
+#: qr_master_admin.php:189
+msgid "7"
+msgstr "7"
+
+#. Text in echo
+#: qr_master_admin.php:190
+msgid "8"
+msgstr "8"
+
+#. Text in echo
+#: qr_master_admin.php:191
+msgid "9"
+msgstr "9"
+
+#. Text in echo
+#: qr_master_admin.php:101
+#: qr_master_admin.php:219
+msgid "Automatic mode"
+msgstr "Modo automático"
+
+#. Text in echo
+#: qr_master_admin.php:223
+msgid "CSS Style"
+msgstr "Estilo CSS"
+
+#. Text in echo
+#: qr_master_admin.php:106
+#: qr_master_admin.php:224
+msgid "Classic"
+msgstr "Clasico"
+
+#. Text in echo
+#: qr_master_admin.php:202
+msgid "Code information"
+msgstr "Información del código"
+
+#. Text in echo
+#: qr_master_admin.php:65
+msgid "Codification:"
+msgstr "Codificación:"
+
+#. Text in echo
+#: qr_master_admin.php:256
+msgid "Contact card (V-Card)"
+msgstr "Presentación (vCard)"
+
+#. Text in echo
+#: qr_master_admin.php:236
+msgid "Copy the shortcode and paste to page or post"
+msgstr "Copia el shortcode y pegalo a un página o un post"
+
+#. Text in echo
+#: qr_master_admin.php:244
+msgid "Developers of code generators and scanners have agreed on how to representing and interpreting some data, such as: surfing the web, add contact, or initializing a call. Here are some examples:"
+msgstr "Los desarrolladores de generadores de códigos y escáneres se han puesto de acuerdo en cómo representar e interpretar algunos datos, como por ejemplo: navegar por la web, añadir contacto, o inicializar una llamada. Veamos algunos ejemplos:"
+
+#. Text in echo
+#: qr_master_admin.php:253
+msgid "E-mail address"
+msgstr "Dirección de correo electrónico"
+
+#. Text in echo
+#: qr_master_admin.php:210
+msgid "ECC:"
+msgstr "ECC:"
+
+#. Text in echo
+#: qr_master_admin.php:92
+msgid "Error correction Level:"
+msgstr "Nivel de corrección de error:"
+
+#. Text in echo
+#: qr_master_admin.php:40
+msgid "GNU General Public License, version 2"
+msgstr "GNU General Public License, version 2"
+
+#. Text in echo
+#: qr_master_admin.php:220
+msgid "Generate a random value of 23 characters based on current time in microseconds. Get random QR code each time to refresh page or post."
+msgstr "Genera un valor aleatorio de 23 caracteres basado en el tiempo actual en microsegundos. Obtiene un código QR aleatorio cada vez que se actualiza la pàgina o el post."
+
+#. Text in echo
+#: qr_master_admin.php:232
+msgid "Get shortcode"
+msgstr "Obtener shortcode"
+
+#. Text in echo
+#: qr_master_admin.php:46
+msgid "Google API Charts"
+msgstr "Google API Charts"
+
+#. Text in echo
+#: qr_master_admin.php:56
+msgid "Google Chart Tools"
+msgstr "Google Chart Tools"
+
+#. Text in echo
+#: qr_master_admin.php:97
+msgid "H (30% data loss)"
+msgstr "H (30% pérdida)"
+
+#. Text in echo
+#: qr_master_admin.php:215
+msgid "H (best)"
+msgstr "H (mejor)"
+
+#. Text in echo
+#: qr_master_admin.php:87
+msgid "Heigth image:"
+msgstr "Altura imagen:"
+
+#. Text in echo
+#: qr_master_admin.php:69
+msgid "ISO-9985-1"
+msgstr "ISO-9985-1"
+
+#. Text in echo
+#: qr_master_admin.php:41
+msgid "If you like this plugin, you can make a donation :) "
+msgstr "Si te ha gustado la extensión, puedes hacer una donación :) "
+
+#. Text in echo
+#: qr_master_admin.php:94
+msgid "L (7% data loss)"
+msgstr "L (7% pérdida)"
+
+#. Text in echo
+#: qr_master_admin.php:212
+msgid "L (smallest)"
+msgstr "L (menor)"
+
+#. Text in echo
+#: qr_master_admin.php:216
+msgid "L by default"
+msgstr "L por defecto"
+
+#. Text in echo
+#: qr_master_admin.php:40
+msgid "Licensed with "
+msgstr "Licenciado con "
+
+#. Text in echo
+#: qr_master_admin.php:246
+msgid "Links"
+msgstr "Enlace"
+
+#. Text in echo
+#: qr_master_admin.php:213
+msgid "M"
+msgstr "M"
+
+#. Text in echo
+#: qr_master_admin.php:95
+msgid "M (15% data loss)"
+msgstr "M (15% pérdida)"
+
+#. Text in echo
+#: qr_master_admin.php:107
+#: qr_master_admin.php:225
+msgid "None"
+msgstr "Sin estilo"
+
+#. Text in echo
+#: qr_master_admin.php:198
+msgid "Only set if automatic mode is not checked."
+msgstr "Llenar si el modo automático no está activado."
+
+#. Text in echo
+#: qr_master_admin.php:75
+msgid "Only set if automatic mode is not checked. Max 40 characters."
+msgstr "Llenar si el modo automático no está activado. Máximo 40 caracteres."
+
+#. Text in echo
+#: qr_master_admin.php:251
+msgid "Phone number"
+msgstr "Número de Teléfono"
+
+#. Text in echo
+#: qr_master_admin.php:176
+msgid "Php QR Code"
+msgstr "Php QR Code"
+
+#. Text in echo
+#: qr_master_admin.php:47
+msgid "PhpQR API"
+msgstr "PhpQR API"
+
+#. Text in echo
+#: qr_master_admin.php:39
+msgid "Plugin created by "
+msgstr "Extensión creada por "
+
+#. Text in echo
+#: qr_master_admin.php:214
+msgid "Q"
+msgstr "Q"
+
+#. Text in echo
+#: qr_master_admin.php:96
+msgid "Q (25% data loss)"
+msgstr "Q (25% pérdida)"
+
+#. Text in echo
+#: qr_master_admin.php:35
+msgid "QR Master"
+msgstr "QR Master"
+
+#. Text in echo
+#: qr_master_admin.php:48
+msgid "QR code usages"
+msgstr "Usos de los QR"
+
+#. Text in echo
+#: qr_master_admin.php:115
+#: qr_master_admin.php:233
+msgid "Reset"
+msgstr "Reinicializar"
+
+#. Text in echo
+#: qr_master_admin.php:226
+msgid "Set css style to code QR."
+msgstr "Añade el estilo CSS al código QR"
+
+#. Text in echo
+#: qr_master_admin.php:68
+msgid "Shift_JIS"
+msgstr "Shift_JIS"
+
+#. Text in echo
+#: qr_master_admin.php:36
+msgid "Shortcode generator"
+msgstr "Generador de shortcodes"
+
+#. Text in echo
+#: qr_master_admin.php:80
+#: qr_master_admin.php:203
+msgid "Show"
+msgstr "Visible"
+
+#. Text in echo
+#: qr_master_admin.php:204
+msgid "Show/hide information below QR code."
+msgstr "Ver/Ocultar la información debajo del código."
+
+#. Text in echo
+#: qr_master_admin.php:181
+msgid "Size image:"
+msgstr "Tamaño imagen:"
+
+#. Text in echo
+#: qr_master_admin.php:243
+msgid "The QR code is a way of representing data as binary code, a series of letters or musical notes. QR codes only show data in a way that the machine can read. The documentation of the QR Code does not specify what the data mean or indicate how it represents a URL or a phone number or a link to Android Market."
+msgstr "El código QR ​​es un medio de representación de datos, como un código binario, un conjunto de letras o notas musicales. Los códigos QR sólo muestran los datos de una forma que las máquinas pueden leer. La documentación de los códigos QR no especifica qué quieren decir los datos, ni indican cómo se representa una url, o un número de teléfono o un enlace de Android Market."
+
+#. Text in echo
+#: qr_master_admin.php:67
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#. Text in echo
+#: qr_master_admin.php:70
+msgid "UTF-8 by default"
+msgstr "UTF-8 por defecto"
+
+#. Text in echo
+#: qr_master_admin.php:199
+msgid "Usages"
+msgstr "Usos"
+
+#. Text in echo
+#: qr_master_admin.php:196
+msgid "Value:"
+msgstr "Valor:"
+
+#. Text in echo
+#: qr_master_admin.php:60
+msgid "Width image:"
+msgstr "Ancho imagen:"
+
+#. Text in echo
+#: qr_master_admin.php:89
+msgid "width x height can not up to 300000 pixels"
+msgstr "ancho x alto no puede superar los 300000 pixeles"
+
+#. Text in echo
+#: qr_shortcode_view.php:1
+msgid "<label class=\"error\">Value field are required.</label>"
+msgstr "<label class=\"error\">El campo Valor es obligatorio.</label>"
+
+#. Text in echo
+#: qr_shortcode_view.php:1
+msgid "<label class=\"error\">Width, Height and Value fields are required.</label>"
+msgstr "<label class=\"error\">Los campos Ancho, Altura y Valor son obligatorios.</label>"
+
+msgid "Foreground color"
+msgstr "Color del primer plano"
+
+msgid "Foreground color of QR code."
+msgstr "Color del código QR"
+
+msgid "Background color"
+msgstr "Color del segundo plano"
+
+msgid "Background color of QR code."
+msgstr "Color de fondo del código QR."
+
+#~ msgid "Google API Charts QR Shortcode"
+#~ msgstr "Google API Charts QR Shortcode"
+
+#~ msgid "Size: "
+#~ msgstr "Tamaño: "

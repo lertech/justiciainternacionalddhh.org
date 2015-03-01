@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Roger Pàmies <roger.pamies@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+
+#. Text in echo
+#: get_qrcode.php:1
+msgid "Encoding:"
+msgstr "Kodiranje:"
+
+#. Text in echo
+#: get_qrcode.php:1
+msgid "Error:"
+msgstr "Greška:"
+
+#. Text in echo
+#: get_qrcode.php:1
+msgid "Link"
+msgstr "Link"
+
+#. Text in echo
+#: qr_master_admin.php:56
+msgid "(Deprecated)"
+msgstr "(Zastareli)"
+
+#. Text in echo
+#: qr_master_admin.php:177
+msgid "This method save generated qr-codes in \\'uploads/qrmaster/cache\\' folder. The folder will be cleared when exceed 10MB"
+msgstr "Ovaj metod čuva generisane qr-kodove u \\'uploads/qrmaster/cache\\' folderu. Folder će biti obrisan kad premaši 10MB"
+
+#. Text in echo
+#: qr_master_admin.php:183
+msgid "1"
+msgstr "1"
+
+#. Text in echo
+#: qr_master_admin.php:192
+msgid "10"
+msgstr "10"
+
+#. Text in echo
+#: qr_master_admin.php:184
+msgid "2"
+msgstr "2"
+
+#. Text in echo
+#: qr_master_admin.php:185
+msgid "3"
+msgstr "3"
+
+#. Text in echo
+#: qr_master_admin.php:186
+msgid "4"
+msgstr "4"
+
+#. Text in echo
+#: qr_master_admin.php:193
+msgid "4 by default. 40 maximum size."
+msgstr "4 po standardu. 40 maksimalna veličina."
+
+#. Text in echo
+#: qr_master_admin.php:187
+msgid "5"
+msgstr "5"
+
+#. Text in echo
+#: qr_master_admin.php:188
+msgid "6"
+msgstr "6"
+
+#. Text in echo
+#: qr_master_admin.php:189
+msgid "7"
+msgstr "7"
+
+#. Text in echo
+#: qr_master_admin.php:190
+msgid "8"
+msgstr "8"
+
+#. Text in echo
+#: qr_master_admin.php:191
+msgid "9"
+msgstr "9"
+
+#. Text in echo
+#: qr_master_admin.php:101 qr_master_admin.php:219
+msgid "Automatic mode"
+msgstr "Automatski režim"
+
+#. Text in echo
+#: qr_master_admin.php:223
+msgid "CSS Style"
+msgstr "CSS Stil"
+
+#. Text in echo
+#: qr_master_admin.php:106 qr_master_admin.php:224
+msgid "Classic"
+msgstr "Klasični"
+
+#. Text in echo
+#: qr_master_admin.php:202
+msgid "Code information"
+msgstr "Podaci o kodu"
+
+#. Text in echo
+#: qr_master_admin.php:65
+msgid "Codification:"
+msgstr "Kodifikacija:"
+
+#. Text in echo
+#: qr_master_admin.php:256
+msgid "Contact card (V-Card)"
+msgstr "Vizitkarta (V-Card)"
+
+#. Text in echo
+#: qr_master_admin.php:236
+msgid "Copy the shortcode and paste to page or post"
+msgstr "Kopirajte shortcode i nalepite ga na stranicu ili post."
+
+#. Text in echo
+#: qr_master_admin.php:244
+msgid "Developers of code generators and scanners have agreed on how to representing and interpreting some data, such as: surfing the web, add contact, or initializing a call. Here are some examples:"
+msgstr "Programeri generatora koda i skenera složili su se oko prezentovanja i interpretiranja nekih podataka, kao što su: pretraživanje web-a, dodavanje kontakta ili iniciranje poziva. Evo nekih primera:"
+
+#. Text in echo
+#: qr_master_admin.php:253
+msgid "E-mail address"
+msgstr "Mail adrese"
+
+#. Text in echo
+#: qr_master_admin.php:210
+msgid "ECC:"
+msgstr "ECC:"
+
+#. Text in echo
+#: qr_master_admin.php:92
+msgid "Error correction Level:"
+msgstr "Došlo je do greške prilikom ispravljanja nivoa:"
+
+#. Text in echo
+#: qr_master_admin.php:40
+msgid "GNU General Public License, version 2"
+msgstr "GNU Opšta javna licenca, verzija 2"
+
+#. Text in echo
+#: qr_master_admin.php:220
+msgid "Generate a random value of 23 characters based on current time in microseconds. Get random QR code each time to refresh page or post."
+msgstr "Generišite nasumičnu vrednost od 23 karaktera na osnovu tekućeg vremena u mikrosekundama. Obezbedite nasumični QR kod svaki put da biste osvežili stranicu ili post."
+
+#. Text in echo
+#: qr_master_admin.php:232
+msgid "Get shortcode"
+msgstr "Obezbedite shortcode"
+
+#. Text in echo
+#: qr_master_admin.php:46
+msgid "Google API Charts"
+msgstr "Google API Charts"
+
+#. Text in echo
+#: qr_master_admin.php:56
+msgid "Google Chart Tools"
+msgstr "Google Chart Alati"
+
+#. Text in echo
+#: qr_master_admin.php:97
+msgid "H (30% data loss)"
+msgstr "H (30% gubitka podataka)"
+
+#. Text in echo
+#: qr_master_admin.php:215
+msgid "H (best)"
+msgstr "H (najbolji)"
+
+#. Text in echo
+#: qr_master_admin.php:87
+msgid "Heigth image:"
+msgstr "Visina slike:"
+
+#. Text in echo
+#: qr_master_admin.php:69
+msgid "ISO-9985-1"
+msgstr "ISO-9985-1"
+
+#. Text in echo
+#: qr_master_admin.php:41
+msgid "If you like this plugin, you can make a donation :) "
+msgstr "Ako vam se dopada ovaj plugin, možete donirati :)"
+
+#. Text in echo
+#: qr_master_admin.php:94
+msgid "L (7% data loss)"
+msgstr "L (7% gubitak podataka)"
+
+#. Text in echo
+#: qr_master_admin.php:212
+msgid "L (smallest)"
+msgstr "L (najmanji)"
+
+#. Text in echo
+#: qr_master_admin.php:216
+msgid "L by default"
+msgstr "L po standardu"
+
+#. Text in echo
+#: qr_master_admin.php:40
+msgid "Licensed with "
+msgstr "Licencirano sa"
+
+#. Text in echo
+#: qr_master_admin.php:246
+msgid "Links"
+msgstr "Linkovi"
+
+#. Text in echo
+#: qr_master_admin.php:213
+msgid "M"
+msgstr "M"
+
+#. Text in echo
+#: qr_master_admin.php:95
+msgid "M (15% data loss)"
+msgstr "M (15% gubitak podataka)"
+
+#. Text in echo
+#: qr_master_admin.php:107 qr_master_admin.php:225
+msgid "None"
+msgstr "Nijedan"
+
+#. Text in echo
+#: qr_master_admin.php:198
+msgid "Only set if automatic mode is not checked."
+msgstr "Podesite samo ako automatski režim nije štikliran."
+
+#. Text in echo
+#: qr_master_admin.php:75
+msgid "Only set if automatic mode is not checked. Max 40 characters."
+msgstr "Podesite samo ako automatski režim nije štikliran. Maksimalno 40 karaktera."
+
+#. Text in echo
+#: qr_master_admin.php:251
+msgid "Phone number"
+msgstr "Broj telefona"
+
+#. Text in echo
+#: qr_master_admin.php:176
+msgid "Php QR Code"
+msgstr "Php QR kod"
+
+#. Text in echo
+#: qr_master_admin.php:47
+msgid "PhpQR API"
+msgstr "PhpQR API"
+
+#. Text in echo
+#: qr_master_admin.php:39
+msgid "Plugin created by "
+msgstr "Plugin kreirao"
+
+#. Text in echo
+#: qr_master_admin.php:214
+msgid "Q"
+msgstr "Q"
+
+#. Text in echo
+#: qr_master_admin.php:96
+msgid "Q (25% data loss)"
+msgstr "Q (25% gubitak podataka)"
+
+#. Text in echo
+#: qr_master_admin.php:35
+msgid "QR Master"
+msgstr "QR Master"
+
+#. Text in echo
+#: qr_master_admin.php:48
+msgid "QR code usages"
+msgstr "QR upotrebe kodova"
+
+#. Text in echo
+#: qr_master_admin.php:115 qr_master_admin.php:233
+msgid "Reset"
+msgstr "Vrati na početne vrednosti"
+
+#. Text in echo
+#: qr_master_admin.php:226
+msgid "Set css style to code QR."
+msgstr "Odredite css stil da biste kodirali QR."
+
+#. Text in echo
+#: qr_master_admin.php:68
+msgid "Shift_JIS"
+msgstr "Shift_JIS"
+
+#. Text in echo
+#: qr_master_admin.php:36
+msgid "Shortcode generator"
+msgstr "Generator shortcode-a"
+
+#. Text in echo
+#: qr_master_admin.php:80 qr_master_admin.php:203
+msgid "Show"
+msgstr "Prikaži"
+
+#. Text in echo
+#: qr_master_admin.php:204
+msgid "Show/hide information below QR code."
+msgstr "Prikaži/sakrij podatke ispod QR koda."
+
+#. Text in echo
+#: qr_master_admin.php:181
+msgid "Size image:"
+msgstr "Prikaži/sakrij podatke ispod QR koda."
+
+#. Text in echo
+#: qr_master_admin.php:243
+msgid "The QR code is a way of representing data as binary code, a series of letters or musical notes. QR codes only show data in a way that the machine can read. The documentation of the QR Code does not specify what the data mean or indicate how it represents a URL or a phone number or a link to Android Market."
+msgstr "QR kod je način za prikazivanje podataka kao binarnog koda, niza slova ili nota. QR kodovi prikazuju podatke samo onako kako ih može pročitati mašina. Dokumentacija o QR kodu ne opisuje značenje koda i ne navodi da li kod predstavlja URL, telefonski broj ili link za Android tržište."
+
+#. Text in echo
+#: qr_master_admin.php:67
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#. Text in echo
+#: qr_master_admin.php:70
+msgid "UTF-8 by default"
+msgstr "UTF-8 po standardu"
+
+#. Text in echo
+#: qr_master_admin.php:199
+msgid "Usages"
+msgstr "Upotrebe"
+
+#. Text in echo
+#: qr_master_admin.php:196
+msgid "Value:"
+msgstr "Vrednost:"
+
+#. Text in echo
+#: qr_master_admin.php:60
+msgid "Width image:"
+msgstr "Širina slike:"
+
+#. Text in echo
+#: qr_master_admin.php:89
+msgid "width x height can not up to 300000 pixels"
+msgstr "Vrednost: širina x visina ne može premašiti 300000 piksela."
+
+#. Text in echo
+#: qr_shortcode_view.php:1
+msgid "<label class=\"error\">Value field are required.</label>"
+msgstr "<label class=\"error\">Vrednosti polja su obavezne.</label>"
+
+#. Text in echo
+#: qr_shortcode_view.php:1
+msgid "<label class=\"error\">Width, Height and Value fields are required.</label>"
+msgstr "<label class=\"error\">Širina, Visina i Vrednosti polja su obavezne.</label>"
+
+msgid "Foreground color"
+msgstr "Boja prednjeg plana"
+
+msgid "Foreground color of QR code."
+msgstr "Boja prednjeg plana QR koda."
+
+msgid "Background color"
+msgstr "Boja pozadine"
+
+msgid "Background color of QR code."
+msgstr "Boja pozadine QR koda."
+
+#~ msgid "Google API Charts QR Shortcode"
+#~ msgstr "Google API Charts QR Shortcode"
+
+#~ msgid "Size: "
+#~ msgstr "Tamaño: "
